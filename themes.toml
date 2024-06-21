@@ -1,0 +1,11 @@
+[[themes]]
+title = "DeepThought"
+description = "A simple blog theme focused on writing powered by Bulma and Zola."
+path = "bundle/zola/themes/DeepThought"
+image = "screenshot.png"
+
+[[themes]]
+title = "lightspeed"
+description = "Zola theme with a perfect Lighthouse score"
+path = "bundle/zola/themes/lightspeed"
+image = "screenshot.png"
